@@ -1,1 +1,1 @@
-# Assign-01-Swift-NameOfProgram
+# Assign-01-Swift-IncomeChecker
